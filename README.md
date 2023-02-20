@@ -19,7 +19,7 @@
       - [Fitness](#fitness)
       - [Food](#food)
       - [Landing Page](#landing-page)
-      - [Movies](#movies
+      - [Movies](#movies)
       - [Music](#music)
       - [Pet](#pet)
       - [Social Apps](#social-apps)
@@ -27,7 +27,7 @@
       - [Guide](#guide)
   - [Plugin](#plugin)
   - [Tools](#tools)
-  - [Confrences](#confrences)
+  - [Conferences](#confrences)
   - [Contribute](#contribute)
   - [License](#license)
 
