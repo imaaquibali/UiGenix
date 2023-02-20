@@ -1,6 +1,10 @@
 # UIgenix
 
-<img width="215" alt="UiGenix-logo" src="public/UiGenix-logo.png">
+<h1 align="center">
+  <a href="#">
+   <img width="215" alt="UiGenix-logo" src="public/UiGenix-logo.png">
+  </a>
+</h1>
 
 UIgenix is the collection of awesome &amp; cool  designs.
 
