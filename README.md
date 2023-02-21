@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<p align="center"> UIgenix is curated list of awesome  &amp; cool  UI tenplates, designs, plugins, widgets and much more in one place. </p> 
+<p align="center"> UIgenix is curated list of awesome  &amp; cool  UI templates, designs, plugins, widgets and much more in one place. </p> 
 <br>
 
 ### Contents:
